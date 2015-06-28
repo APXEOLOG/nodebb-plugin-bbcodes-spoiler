@@ -1,0 +1,26 @@
+{
+	"name": "nodebb-plugin-bbcodes-spoiler",
+	"version": "1.0.0",
+	"description": "BBCodes plugin extension with spoiler code support. Plugin nodebb-plugin-bbcodes required",
+	"main": "library.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/APXEOLOG/nodebb-plugin-bbcodes-spoiler.git"
+	},
+	"keywords": [
+		"nodebb",
+		"plugin",
+		"bbcode",
+		"spoiler"
+	],
+	"author": {
+		"name": "APXEOLOG",
+		"email": "apxeolog.ru@gmail.com"
+	},
+	"license": "GPLv3",
+	"bugs": {
+		"url": "https://github.com/APXEOLOG/nodebb-plugin-bbcodes-spoiler/issues"
+	},
+	"homepage": "https://github.com/APXEOLOG/nodebb-plugin-bbcodes-spoiler",
+	"scripts": {}
+}

@@ -1,0 +1,14 @@
+{
+	"id": "nodebb-plugin-bbcodes-spoiler",
+	"name": "NodeBB BBCodes spoiler extension",
+	"description": "BBCodes plugin extension with spoiler code support. Plugin nodebb-plugin-bbcodes required",
+	"url": "https://github.com/APXEOLOG/nodebb-plugin-bbcodes-spoiler",
+	"library": "./library.js",
+	"hooks": [{
+		"hook": "static:plugin-bbcodes-load",
+		"method": "register"
+	}],
+	"nbbpm": {
+        "compatibility": "^0.7.0"
+    }
+}
